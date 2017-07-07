@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    display: flex;
+    height: 660px;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    background: url("./resource/img/logo.png");
+    width: 720px;
+    height: 238px;
+    background-size:100%;
+    opacity: 1.0;
+}
+audio {
+    display: block;
+}
